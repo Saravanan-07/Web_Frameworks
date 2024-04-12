@@ -15,7 +15,7 @@ import com.day4.day4.repository.JobRepo;
 import com.day4.day4.service.JobService;
 
 @RestController
-public class MedicineController {
+public class JobController {
     @Autowired
     JobService j;
     @Autowired
