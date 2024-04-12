@@ -7,7 +7,7 @@ import com.day4.day4.model.Job;
 import com.day4.day4.repository.JobRepo;
 
 @Service
-public class MedicineService {
+public class JobService {
     @Autowired
     private JobRepo repository;
 
